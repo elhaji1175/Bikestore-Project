@@ -1,4 +1,4 @@
-# sql
+# BikeStore
 Bike Store Analysis
 
 This project aims to perform a data analysis on a bike store using SQL and Excel. The goal is to gain insights into sales and inventory trends, and to understand the factors that influence them.
